@@ -1,0 +1,8 @@
+LIBRARY
+       Dll.dll
+
+EXPORTS
+    ; Explicit exports can go here
+	GetSum @1
+	GetMul @2
+	GetDiv @3

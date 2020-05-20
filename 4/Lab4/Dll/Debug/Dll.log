@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Lab4\Dll\dllmain.cpp(12,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Lab4\Dll\dllmain.cpp(17,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  LINK : C:\Lab4\Debug\Dll.dll not found or not built by the last incremental link; performing full link
+Dll.def(2): warning LNK4017: Dll.dll statement not supported for the target platform; ignored
+     Creating library C:\Lab4\Debug\Dll.lib and object C:\Lab4\Debug\Dll.exp
+  Dll.vcxproj -> C:\Lab4\Debug\Dll.dll
