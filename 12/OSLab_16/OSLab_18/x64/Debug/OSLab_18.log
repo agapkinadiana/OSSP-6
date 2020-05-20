@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OSLab_18.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab_12.cpp
+\\Mac\Home\Desktop\labs\12\OSLab_16\OSLab_18\lab_12.cpp(150,7): warning C4101: 'sz': unreferenced local variable
+\\Mac\Home\Desktop\labs\12\OSLab_16\OSLab_18\lab_12.cpp(155,10): warning C4101: 'hResult': unreferenced local variable
+\\Mac\Home\Desktop\labs\12\OSLab_16\OSLab_18\lab_12.cpp(142,9): warning C4101: 'j': unreferenced local variable
+\\Mac\Home\Desktop\labs\12\OSLab_16\OSLab_18\lab_12.cpp(154,11): warning C4101: 'pcch': unreferenced local variable
+\\Mac\Home\Desktop\labs\12\OSLab_16\OSLab_18\lab_12.cpp(146,8): warning C4101: 'szBuf': unreferenced local variable
+  OSLab_18.vcxproj -> \\Mac\Home\Desktop\labs\12\OSLab_16\x64\Debug\lab_12.exe
