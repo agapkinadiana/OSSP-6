@@ -1,0 +1,8 @@
+﻿D:\vs17\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: поддержка Windows XP прекращена, ее не будет в последующих выпусках Visual Studio. Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=2023588.
+  pch.cpp
+  dllmain.cpp
+d:\учёба\3 curs\2 сем\осисп\lab3\lab1cppdll\lab1cppdll\dllmain.cpp(35): error C2653: filesystem: не является именем класса или пространства имен
+d:\учёба\3 curs\2 сем\осисп\lab3\lab1cppdll\lab1cppdll\dllmain.cpp(35): error C3861: directory_iterator: идентификатор не найден
+d:\учёба\3 curs\2 сем\осисп\lab3\lab1cppdll\lab1cppdll\dllmain.cpp(36): error C3312: не найдена вызываемая функция "begin" для типа "unknown-type"
+d:\учёба\3 curs\2 сем\осисп\lab3\lab1cppdll\lab1cppdll\dllmain.cpp(36): error C3312: не найдена вызываемая функция "end" для типа "unknown-type"
+d:\учёба\3 curs\2 сем\осисп\lab3\lab1cppdll\lab1cppdll\dllmain.cpp(36): error C2065: entry: необъявленный идентификатор

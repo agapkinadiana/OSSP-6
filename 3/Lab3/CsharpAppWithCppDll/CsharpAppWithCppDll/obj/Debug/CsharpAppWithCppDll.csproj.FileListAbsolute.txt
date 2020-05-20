@@ -1,0 +1,19 @@
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe.config
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.pdb
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.csproj.CoreCompileInputs.cache
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.exe
+D:\university\3 course\1 sem\OS and a System programming\labs\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.pdb
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe.config
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.pdb
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.csprojAssemblyReference.cache
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.csproj.CoreCompileInputs.cache
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.exe
+D:\university\3 course\1 sem\OS and a System programming\samples\my\Lab1\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.pdb
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe.config
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.exe
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\bin\Debug\CsharpAppWithCppDll.pdb
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.csprojAssemblyReference.cache
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.exe
+C:\Lab3\CsharpAppWithCppDll\CsharpAppWithCppDll\obj\Debug\CsharpAppWithCppDll.pdb
