@@ -1,1 +1,5 @@
-﻿  Task1.vcxproj -> \\Mac\Home\Desktop\labs\11\Debug\Task1.exe
+﻿  pch.cpp
+  Task1.cpp
+\\Mac\Home\Desktop\OSSP-6\11\Task1\Task1.cpp(16,8): warning C4101: 'fp': unreferenced local variable
+\\Mac\Home\Desktop\OSSP-6\11\Task1\Task1.cpp(47,8): warning C4101: 'fp': unreferenced local variable
+  Task1.vcxproj -> \\Mac\Home\Desktop\OSSP-6\11\Debug\Task1.exe

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  kr.cpp
+d:\учёба\3 curs\2 сем\осисп\16\lab_12\kr\kr.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Учёба\3 curs\2 сем\ОСИСП\16\lab_12\x64\Debug\kr.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

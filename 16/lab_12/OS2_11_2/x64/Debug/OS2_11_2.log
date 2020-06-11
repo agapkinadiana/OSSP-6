@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OS2_11_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  OS2_16_2.cpp
+  OS2_11_2.vcxproj -> \\Mac\Home\Downloads\16\lab_12\x64\Debug\OS2_16_2.exe

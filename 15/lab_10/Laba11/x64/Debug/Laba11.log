@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Laba11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Laba15.cpp
+  Laba11.vcxproj -> \\Mac\Home\Downloads\15\lab_10\x64\Debug\Laba15.exe
